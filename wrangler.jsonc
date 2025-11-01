@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "skyurlshortner",
+  "name": "skyurlshortnergroup",
   "main": "dist/server/index.mjs",
   "assets": {
     "binding": "ASSETS",
